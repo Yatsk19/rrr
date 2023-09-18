@@ -1,0 +1,4 @@
+C:\Users\Vitaly\source\repos\1234566\1234566\obj\Debug\net6.0\1234566.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaly\source\repos\1234566\1234566\obj\Debug\net6.0\1234566.AssemblyInfoInputs.cache
+C:\Users\Vitaly\source\repos\1234566\1234566\obj\Debug\net6.0\1234566.AssemblyInfo.cs
+C:\Users\Vitaly\source\repos\1234566\1234566\obj\Debug\net6.0\1234566.csproj.CoreCompileInputs.cache
